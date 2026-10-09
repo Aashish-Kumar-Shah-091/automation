@@ -1,0 +1,19 @@
+{
+  "title": "The Dark Secret of the Mariana Trench",
+  "tags": [
+    "#ocean",
+    "#mystery",
+    "#science",
+    "#deepsea",
+    "#shorts"
+  ],
+  "script": "Seven miles beneath the ocean surface, the pressure is strong enough to crush a titanium submarine like a soda can. Yet when cameras finally descended into the Challenger Deep, they didn't find a barren wasteland. They discovered ghostly, translucent creatures thriving in total darkness, surviving on chemical vents hotter than molten lead. Even more chilling, scientists detected strange rhythmic metallic sounds reverberating through the abyss that don't match any known geological activity. We know more about the surface of Mars than the bottom of our own oceans. What do you think is watching us from down there?",
+  "voice": "en-US-ChristopherNeural",
+  "background_clip": "subwaysurf.webm",
+  "background_total_duration_sec": 193.033,
+  "seek_offset_seconds": 67.05,
+  "video_duration_seconds": 37.82,
+  "video_resolution": "1080x1920 (9:16)",
+  "output_file": "outputs\\short_20261009_224415.mp4",
+  "timestamp": "20261009_224415"
+}

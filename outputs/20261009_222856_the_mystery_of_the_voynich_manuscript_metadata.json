@@ -1,0 +1,18 @@
+{
+  "title": "The Mystery of the Voynich Manuscript",
+  "tags": [
+    "#mystery",
+    "#history",
+    "#science",
+    "#shorts"
+  ],
+  "script": "In 1912, an antique book dealer found a manuscript written in an unknown alphabet with illustrations of bizarre, non-existent plants and astronomical charts. For over a century, the world's greatest cryptographers, including Alan Turing's codebreakers, tried to decipher it and failed. To this day, no one knows who wrote the Voynich manuscript, or what forgotten knowledge is locked inside its pages.",
+  "voice": "en-US-ChristopherNeural",
+  "background_clip": "sample_gradient.mp4",
+  "background_total_duration": 5.0,
+  "seek_offset_seconds": 0.0,
+  "duration_seconds": 26.06,
+  "video_output": "outputs\\20261009_222856_the_mystery_of_the_voynich_manuscript.mp4",
+  "audio_output": "voice.mp3",
+  "timestamp": "20261009_222856"
+}
